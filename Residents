@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frostburg State University - Residence Halls</title>
+</head>
+<body>
+
+    <h1>Frostburg State University - Residence Halls</h1>
+
+    <p>
+        This page lists the residence halls located at Frostburg State University.
+    </p>
+
+    <p>
+        Each hall includes its name and a short description of what it offers.
+    </p>
+
+    <hr>
+
+    <h2>Residence Halls:</h2>
+
+    <hr>
+
+   <h3>Annapolis Hall:</h3>
+   <p>
+      A traditional residence hall offering double/single rooms. It primarily houses first-year students.
+  </p>
+
+  <h3>Cumberland Hall</h3>
+<p>
+Residence hall consisisting of only single rooms.
+</p>
+
+    <h3>Allen Hall:</h3>
+    <p>
+        A traditional residence hall offering double rooms and community-style bathrooms. 
+        It primarily houses first-year students.
+    </p>
+
+    <h3>Diehl Hall:</h3>
+    <p>
+        A co-ed residence hall with double rooms and shared bathroom facilities.
+        Located conveniently near academic buildings and dining areas.
+    </p>
+
+    <h3>Frederick Hall:</h3>
+    <p>
+        One of the suite-style residence halls.
+  
+    </p>
+
+    <h3>Gray Hall:</h3>
+    <p>
+        A traditional-style residence hall primarily for first-year students.
+        Offers a close-knit community atmosphere.
+    </p>
+
+    <h3>Simpson Hall:</h3>
+    <p>
+        A suite-style residence hall offering modern amenities and shared living spaces.
+    </p>
+
+    <h3>Westminster Hall:</h3>
+    <p>
+        A residence hall designed primarily for upperclassmen.
+    </p>
+
+    <h2>Links:</h2>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="academics.html">Academics</a> |
+        <a href="studentlifeandliving.html">Living + Dining</a> |
+        <a href="athletic.html">Athletics</a>
+    </nav>
+
+</body>
+</html>
